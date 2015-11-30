@@ -1,6 +1,9 @@
-## Arelos Website
-This is the  website for Arelos and has replaced our old excuse of
+# Arelos Website
+This is the new website for Arelos and has replaced our old excuse of
 a website.
+
+## Installation and Contributing
+Installation is fairly simple as the site only utilizes basic JS and JQuery plugins and does not require any installation of Bower, Gulp, Ruby, Grunt and the like. Just Clone, do some things and submit a Pull Request and we will gladly look at it!
 
 ## Credits
 
