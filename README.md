@@ -1,5 +1,5 @@
 # Arelos Website
-This is the new website for Arelos and has replaced our old excuse of
+This is *the new* website for Arelos and has replaced our old excuse of
 a website.
 
 ## Installation and Contributing
