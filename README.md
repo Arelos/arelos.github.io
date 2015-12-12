@@ -9,7 +9,7 @@ Installation is fairly simple as the site only utilizes basic JS and JQuery plug
 
 This website is based on the open-source web template by [Start Bootstrap](http://startbootstrap.com) and we would like that all credits go to them for making an amazing template that's also Open-Source!
 
-This website is built almost entirely around the [Twitter Bootstrap Framework](https://getbootstrap.com) and such amazing and responsive sites would not have been possible without the Bootstrap Framework!
+This website is built almost entirely around the [Twitter Bootstrap Framework](https://getbootstrap.com).
 
 ## Copyright and License
 
